@@ -1,0 +1,14 @@
+.single-welcome-area {
+    height: 600px;
+    padding-top: 120px;
+}
+.hero-image {
+    height: 500px;
+    top: 40px;
+}
+a {
+	color: #1a73e8;
+}
+a:hover {
+	color: #fff;
+}
